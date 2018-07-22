@@ -1,0 +1,19 @@
+{
+  "name": "electron001",
+  "version": "0.1.0",
+  "description": "First app in electron JS.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feeby2494/electron_learning.git"
+  },
+  "author": "Jamie Lynn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feeby2494/electron_learning/issues"
+  },
+  "homepage": "https://github.com/feeby2494/electron_learning#readme"
+}
